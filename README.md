@@ -1,2 +1,2 @@
 # php1
-exercice php
+exercice d'algorithme php n°1
